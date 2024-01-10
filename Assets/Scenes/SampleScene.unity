@@ -518,7 +518,7 @@ MonoBehaviour:
   playerTransform: {fileID: 1051673946}
   isChasing: 0
   chaseDistance: 100
-  Speed: 10
+  Speed: 1
 --- !u!1 &1051673944
 GameObject:
   m_ObjectHideFlags: 0
